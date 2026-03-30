@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* NAVBAR */
+nav {
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+/* SECTIONS */
+section {
+    padding: 60px;
+    text-align: center;
+}
+
+/* HOME */
+#home {
+    background: linear-gradient(to right, blue, purple);
+    color: white;
+    height: 100vh;
+}
+
+/* SKILLS */
+#skills ul {
+    list-style: none;
+}
+
+/* PROJECTS */
+#projects {
+    background: #f4f4f4;
+}
