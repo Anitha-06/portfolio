@@ -27,7 +27,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## 📞 Contact
 
-- Email: your-email@example.com  
+- Email:amgothanitha06@example.com  
 
 ---
 
